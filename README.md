@@ -1,4 +1,4 @@
-# mode-for-fun-portfolio
-MY PORTFOLIO
+# MY PORTFOLIO
 <br>
 author- Rishith N
+
